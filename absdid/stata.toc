@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p absdid Semiparametric Difference-in-Difference (DID) Estimator of Abadie (2005) Use absdid With STATA 19
