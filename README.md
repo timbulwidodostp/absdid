@@ -1,6 +1,8 @@
 # absdid
 Semiparametric Difference-in-Difference (DID) Estimator of Abadie (2005) Use absdid With STATA 19
 
+https://www.youtube.com/watch?v=qNX9A29eFCU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
